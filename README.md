@@ -106,13 +106,6 @@ frontend/
 - **Frontend**: React, Vite, plain CSS (no UI framework)
 - **External APIs**: Open-Meteo Geocoding, Forecast, Archive, and Air Quality APIs (all free, keyless)
 
-## Before submitting — checklist
-
-- [ ] Replace `[YOUR NAME HERE]` in `backend/app/main.py`, `frontend/src/components/Footer.jsx`, and this README with your actual name.
-- [ ] Replace the PM Accelerator placeholder text in `backend/app/main.py` (`/api/about`) and `frontend/src/components/Footer.jsx` with the current description copied from [PM Accelerator's LinkedIn page](https://www.linkedin.com/company/product-manager-accelerator/).
-- [ ] Push this repo to GitHub (public, or private + add `community@pmaccelerator.io` and `hr@pmaccelerator.io` as collaborators).
-- [ ] Record a 1–2 minute demo video walking through the code and the running app, and host it somewhere viewable (Drive/YouTube/Vimeo).
-- [ ] Submit via the Google form within the deadline given in your assessment email.
 
 ## Notes
 
