@@ -2,7 +2,7 @@
 
 A full-stack weather app built for the PM Accelerator AI Engineer Intern technical assessment (both Tech Assessment #1 and #2).
 
-Built by **[YOUR NAME HERE]**.
+Built by **MADDALI VAISHNAVI**.
 
 ## What this is
 
